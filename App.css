@@ -1,0 +1,11 @@
+*{
+  background-color: aqua;
+}
+.App{
+  background-color: blue;
+}
+h2{
+  color: aqua;
+  background-color: black;
+  font-size: large;
+}
